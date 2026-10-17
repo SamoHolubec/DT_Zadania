@@ -1,4 +1,4 @@
--- Active: 1790180945242@@127.0.0.1@5432@superstore
+-- Active: 1790180945242@@127.0.0.1@5432@retail_sales
 
 --Uloha 1
 create view high_value_customers as
